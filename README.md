@@ -34,6 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Cartão de visitas online no projeto de Discovery da Rocketseat
+Com algumas coisas minhas
 
 ## 🔖 Layout
 
